@@ -9,7 +9,7 @@ jkan_theme: Default
 
 # Authentication
 github_client_id: f7fa15766570be7b6421
-gatekeeper_host: jkan-gla
+gatekeeper_host: https://jkan-gla.herokuapp.com
 
 # Dataset schema
 schema: default
