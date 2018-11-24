@@ -8,7 +8,7 @@ logo: /img/jkan.png
 jkan_theme: Slate
 
 # Authentication
-github_client_id: f7fa15766570be7b6421
+github_client_id: ac9684a0f09cbc98f383
 gatekeeper_host: https://jkan-gla.herokuapp.com
 
 # Dataset schema
