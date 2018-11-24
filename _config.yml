@@ -1,7 +1,7 @@
 title: gla-gis-data
 greeting: Data
 description: open data catalogue
-baseurl: /data
+baseurl: /gla-gis-data
 logo: /img/jkan.png
 
 # Site theme
