@@ -5,7 +5,7 @@ baseurl: /data
 logo: /img/jkan.png
 
 # Site theme
-jkan_theme: Slate
+jkan_theme: Readable
 
 # Authentication
 github_client_id: ac9684a0f09cbc98f383
