@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Culture Team
+title: Culture
 description: ''
 logo: ''
 ---
