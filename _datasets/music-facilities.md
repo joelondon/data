@@ -10,7 +10,7 @@ resources:
     format: geojson
   - name: music-facilities list
     url: >-
-      https://maps.london.gov.uk/geoserver/gis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=gis:culture_music&maxFeatures=5000&outputFormat=application%2Fcsv&srsName=EPSG:4326&CQL_FILTER=verified=1
+      https://maps.london.gov.uk/geoserver/gis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=gis:culture_music&maxFeatures=5000&outputFormat=csv&srsName=EPSG:4326&CQL_FILTER=verified=1
     format: csv
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
