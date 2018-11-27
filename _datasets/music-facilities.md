@@ -1,7 +1,7 @@
 ---
 schema: default
 title: music-facilities
-organization: ''
+organization: Culture
 notes: locations of gla listed music facilities
 resources:
   - name: music-facilities list
