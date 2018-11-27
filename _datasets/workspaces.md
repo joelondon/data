@@ -2,7 +2,7 @@
 schema: default
 title: workspaces
 organization: Regeneration
-notes: locations of gla listed workspaces in WGS84 projection
+notes: locations of gla listed workspaces
 resources:
   - name: workspaces list
     url: >-
