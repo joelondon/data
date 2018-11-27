@@ -1,5 +1,5 @@
 - name: Culture
-  logo: /img/categories/arts-culture-history.svg
+  logo: ''
   logo_credit: ''
   featured: true
 - name: Uncategorized
@@ -9,3 +9,4 @@
 - name: Regeneration
   logo: ''
   logo_credit: ''
+  featured: true
